@@ -1,1 +1,1 @@
-ghcr.io/snowdreamtech/frps:nightly-bookworm
+ghcr.io/snowdreamtech/frps:nightly-alpine3.20

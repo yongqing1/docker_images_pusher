@@ -1,2 +1,3 @@
 ghcr.io/snowdreamtech/frps:nightly-alpine3.20
 phpdockerio/php:7.4-fpm
+mysql:8.0.30

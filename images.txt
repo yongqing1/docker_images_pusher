@@ -1,7 +1,7 @@
 ghcr.io/snowdreamtech/frps:nightly-alpine3.20
 phpdockerio/php:7.4-fpm
 mysql:8.0.30
-redis
+redis:6.2.7
 rabbitmq:3.12.0-management
 nacos/nacos-server:v2.1.1
 minio/minio

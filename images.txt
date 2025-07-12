@@ -5,3 +5,4 @@ redis
 rabbitmq:3.12.0-management
 nacos/nacos-server:v2.2.1
 minio/minio
+xuxueli/xxl-job-admin:2.4.0
